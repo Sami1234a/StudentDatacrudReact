@@ -1,0 +1,22 @@
+.student-area{
+    width: 100rem;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.forms{
+    width: 500px;
+    height: auto;
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    background: #ffff;
+    box-shadow: 0 4px 20px #ccc;
+    padding: 10px;
+}
+table{
+    width: 100%;
+}
